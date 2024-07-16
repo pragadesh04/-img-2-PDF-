@@ -9,8 +9,11 @@
     git clone https://github.com/Praga866/-img-2-PDF-.git
     cd -img-2-PDF-
     ```
-
-2. **Install dependencies:**
+2. **Activate VENV**
+   ```bash
+   .\.venv\Scripts\activate
+   ```
+3. **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
